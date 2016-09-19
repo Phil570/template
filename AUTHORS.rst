@@ -3,5 +3,5 @@ Authors
 
 * Eric (New contributor)
 • Philippe
-• Et moi
+• Jéraume et moi
 
